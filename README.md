@@ -1,10 +1,10 @@
-# Welcome to project
+# Optimization MIREA
 
 ## Project info
 
-**URL**: 
+**URL**: https://github.com/Mertozqq
 
-## How can I edit this code?
+## To edit this code
 
 **Use your preferred IDE**
 
@@ -30,11 +30,10 @@ npm run dev
 
 This project is built with:
 
+### frontend
+
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
-
-# optimization-MIREA
-# optimization-MIREA
