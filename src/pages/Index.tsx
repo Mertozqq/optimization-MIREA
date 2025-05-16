@@ -87,6 +87,14 @@ const Index = () => {
               djangoSpecific={true}
               learnMoreLink="/techniques"
             />
+
+            <OptimizationCard
+              title="Django REST Framework оптимизация"
+              description="Пагинация, фильтрация и оптимизация queryset для повышения производительности API"
+              impact="high"
+              djangoSpecific={true}
+              learnMoreLink="/techniques"
+            />
           </div>
 
           <div className="text-center">

@@ -6,6 +6,9 @@ import TemplateOptimization from '../components/techniques/TemplateOptimization'
 import StaticFilesOptimization from '../components/techniques/StaticFilesOptimization';
 import LazyLoadingImages from '../components/techniques/LazyLoadingImages';
 
+import DjangoRestFramework from '../components/techniques/DjangoRESTFramework';
+
+
 const Techniques = () => {
   return (
     <div className="min-h-screen bg-gray-50">
@@ -23,6 +26,9 @@ const Techniques = () => {
             <TemplateOptimization />
             <StaticFilesOptimization />
             <LazyLoadingImages />
+
+            <DjangoRestFramework />
+
           </div>
         </div>
       </main>
